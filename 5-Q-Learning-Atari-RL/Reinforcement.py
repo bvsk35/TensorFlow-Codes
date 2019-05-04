@@ -131,10 +131,8 @@ Note:
         How to run:
         To train a Neural Network for playing the Atari game Breakout,
         run the following command in a terminal window.
-
-        python reinforcement_learning.py --env 'Breakout-v0' --training (old)
         
-        python3 Reinforcement.py --env 'Breakout-v0' --training (new)
+        python3 Reinforcement.py --env 'Breakout-v0' --training 
 
         The agent should start to improve after a few hours, but a full
         training run will require ~150 hours.
@@ -142,8 +140,6 @@ Note:
     2 - TESTING:
         Once the Neural Network has been trained, you can test it and
         watch it play the game by running this command in the terminal:
-
-        python reinforcement_learning.py --env 'Breakout-v0' --render --episodes 2 (old)
         
         python3 Reinforcement.py --env 'Breakout-v0' --render --episodes 2
         
