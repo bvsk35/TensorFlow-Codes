@@ -10,6 +10,7 @@ examples for tensorflow verison 1.13 and also tensorflow version 2.0.
 - 0-Hello-World ([notebook](https://github.com/bvsk35/TensorFlow-V1.13-Examples/blob/master/TensorFlow%20v1.13/0-Hello-World/TensorFlow_Practice.ipynb)): simple example to show different basic syntax of tensorflow.
 - 6-TensorFlow-Eager-API ([notebook](https://github.com/bvsk35/TensorFlow-V1.13-Examples/blob/master/TensorFlow%20v1.13/6-TensorFlow-Eager-API/TF_Eager_API.ipynb)): simple example showing to use the Eager API in tensorflow.
 ### 2 - Basic Models
+- 7-LinearRegression ([notebook](https://github.com/bvsk35/TensorFlow-V1.13-V2.0-Examples/blob/master/TensorFlow%20v1.13/7-LinearRegression/TF-Linear-Regression.ipynb)): simple example showing how to linear regression with and without Eager API.
 ### 3 - Deep Learning
 - 1-MNIST-Classification-Simple ([notebook](https://github.com/bvsk35/TensorFlow-V1.13-Examples/blob/master/TensorFlow%20v1.13/1-MNIST-Classification-Simple/TF_MNIST.ipynb)): simple example to show how to build simple neural network to classify MNIST dataset.
 - 2-Fashion-MNIST-Classification-Simple ([notebook](https://github.com/bvsk35/TensorFlow-V1.13-Examples/blob/master/TensorFlow%20v1.13/2-Fashion-MNIST-Classification-Simple/TF_Fashion_MNIST.ipynb)): simple example to show how to build simple neural network to classify Fashion MNIST dataset.
